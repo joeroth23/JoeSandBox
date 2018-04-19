@@ -1,0 +1,10 @@
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.csprojResolveAssemblyReference.cache
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.frmRunScripts.resources
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.Properties.Resources.resources
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.csproj.GenerateResource.cache
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.csproj.CoreCompileInputs.cache
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\bin\Debug\ScriptRunMan.exe.config
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\bin\Debug\ScriptRunMan.exe
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\bin\Debug\ScriptRunMan.pdb
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.exe
+D:\LandWorks\JoeSandBox\ScriptRunMan\ScriptRunMan\obj\Debug\ScriptRunMan.pdb
